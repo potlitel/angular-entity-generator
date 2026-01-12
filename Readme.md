@@ -349,6 +349,7 @@ Añade estos scripts a tu `package.json`:
     "tsc:build": "tsc tools/create-entity.ts --outDir dist --module commonjs --target es2020"
   }
 }
+```
 
 ## 📊 Características de Nombrado Automático
 

@@ -4,6 +4,7 @@
 [![Node.js](https://img.shields.io/badge/Node.js-18+-green)](https://nodejs.org/)
 [![VS Code](https://img.shields.io/badge/VS_Code-1.85+-blue)](https://code.visualstudio.com/)
 [![Angular](https://img.shields.io/badge/Angular-15+-red)](https://angular.io/)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 Un script TypeScript para generar automáticamente módulos de entidades Angular completos directamente desde Visual Studio Code. Este script crea toda la estructura necesaria para una entidad: componentes, servicios, modelos, GraphQL e internacionalización.
 
@@ -400,3 +401,7 @@ El script transforma automáticamente los nombres:
 Hecho con ❤️ para la comunidad Angular
 
 \*Script mantenido y mejorado continuamente - Última actualización: Enero 2024\*
+
+## 📄 Licencia
+
+Este proyecto está bajo la Licencia MIT - ver el archivo [LICENSE](LICENSE) para más detalles.

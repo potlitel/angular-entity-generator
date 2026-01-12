@@ -1,9 +1,9 @@
 # Angular Entity Generator Script
 
-[](https://www.typescriptlang.org/)[https://img.shields.io/badge/TypeScript-5.0-blue](https://img.shields.io/badge/TypeScript-5.0-blue)  
-[](https://nodejs.org/)[https://img.shields.io/badge/Node.js-18+-green](https://img.shields.io/badge/Node.js-18+-green)  
-[](https://code.visualstudio.com/)[https://img.shields.io/badge/VS\_Code-1.85+-blue](https://img.shields.io/badge/VS_Code-1.85+-blue)  
-[](https://angular.io/)[https://img.shields.io/badge/Angular-15+-red](https://img.shields.io/badge/Angular-15+-red)
+[![TypeScript](https://img.shields.io/badge/TypeScript-5.0-blue)](https://www.typescriptlang.org/)
+[![Node.js](https://img.shields.io/badge/Node.js-18+-green)](https://nodejs.org/)
+[![VS Code](https://img.shields.io/badge/VS_Code-1.85+-blue)](https://code.visualstudio.com/)
+[![Angular](https://img.shields.io/badge/Angular-15+-red)](https://angular.io/)
 
 Un script TypeScript para generar automáticamente módulos de entidades Angular completos directamente desde Visual Studio Code. Este script crea toda la estructura necesaria para una entidad: componentes, servicios, modelos, GraphQL e internacionalización.
 

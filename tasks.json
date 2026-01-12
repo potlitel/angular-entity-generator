@@ -2,18 +2,31 @@
   "version": "2.0.0",
   "tasks": [
     {
-      "label": "Crear entidad Angular",
+      "label": "📁 Crear Entidad Angular",
       "type": "shell",
-      "command": "node tools/create-entity.ts ${input:entityName}",
-      "problemMatcher": []
+      "command": "npx ts-node tools/create-entity.ts ${input:entityName} --confirm",
+      "group": {
+        "kind": "build",
+        "isDefault": false
+      },
+      "presentation": {
+        "echo": true,
+        "reveal": "always",
+        "focus": false,
+        "panel": "shared",
+        "showReuseMessage": false,
+        "clear": true
+      },
+      "problemMatcher": [],
+      "detail": "Genera una nueva entidad Angular completa con todos sus componentes"
     }
   ],
   "inputs": [
-        {
-          "id": "entityName",
-          "type": "promptString",
-          "description": "Nombre de la entidad",
-          "default": "User"
-        }
-      ],
+    {
+      "id": "entityName",
+      "type": "promptString",
+      "description": "📝 Nombre de la entidad (ej: user, product, user_role):",
+      "default": "user"
+    }
+  ]
 }

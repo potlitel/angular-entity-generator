@@ -5,6 +5,7 @@
 [![VS Code](https://img.shields.io/badge/VS_Code-1.85+-blue)](https://code.visualstudio.com/)
 [![Angular](https://img.shields.io/badge/Angular-15+-red)](https://angular.io/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+[![Contributor Covenant](https://img.shields.io/badge/Contributor%20Covenant-2.1-4baaaa.svg)](CODE_OF_CONDUCT.md)
 
 Un script TypeScript para generar automáticamente módulos de entidades Angular completos directamente desde Visual Studio Code. Este script crea toda la estructura necesaria para una entidad: componentes, servicios, modelos, GraphQL e internacionalización.
 
@@ -405,3 +406,15 @@ Hecho con ❤️ para la comunidad Angular
 ## 📄 Licencia
 
 Este proyecto está bajo la Licencia MIT - ver el archivo [LICENSE](LICENSE) para más detalles.
+
+## 🤝 Código de Conducta
+
+Este proyecto sigue el Código de Conducta del Pacto de Contribuyentes. Al participar en este proyecto, aceptas cumplir con sus términos. Para reportar comportamientos inadecuados, contacta a [potlitel@gmail.com].
+
+[Consulta el Código de Conducta completo](CODE_OF_CONDUCT.md)
+
+## 🆘 Soporte y Ayuda
+
+- [📋 Reportar un error](https://github.com/potlitel/angular-entity-generator/issues)
+- [💡 Solicitar nueva funcionalidad](https://github.com/potlitel/angular-entity-generator/issues)
+- [❓ Hacer una pregunta](https://github.com/potlitel/angular-entity-generator/discussions)

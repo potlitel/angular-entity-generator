@@ -1,0 +1,19 @@
+{
+  "version": "2.0.0",
+  "tasks": [
+    {
+      "label": "Crear entidad Angular",
+      "type": "shell",
+      "command": "node tools/create-entity.ts ${input:entityName}",
+      "problemMatcher": []
+    }
+  ],
+  "inputs": [
+        {
+          "id": "entityName",
+          "type": "promptString",
+          "description": "Nombre de la entidad",
+          "default": "User"
+        }
+      ],
+}
